@@ -23,7 +23,7 @@ Libraries used:
   
   
   
-## Other 
+  - ## Other 
     - [Computer Vision](link): this folder contains everything computer vision related. Starting from the very basics. 
 
 
