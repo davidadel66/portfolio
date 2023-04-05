@@ -15,11 +15,18 @@ Libraries used:
     - [Work Order cluster](link): Historical data of Machine work orders clustered to recognize the most common issues and propose solutions based on notes.
     - [Song reccomendation](link): Using Spotify music data from kaggle. Song recommendation based on similarities between songs. 
   - ## Neural Networks
+    - [Mnist Digit Recognition](link): Used TensorFlow to practice digit recognition on the mnist dataset. Created a simple layer neural network.
+    - [House Price prediction](link): Use data from zillow for a specific neighborhood to identify house price based on number of bedrooms, bathrooms, and size.
+    
+    
+  - ## Machine Learning from Scratch
+    - [KNN](link): Created a K Nearest Neighbor algorithm from scratch to determine Wine Quality.
+    
   
   
   
 ## Other 
-
+    - [Computer Vision](link): this folder contains everything computer vision related. Starting from the very basics. 
 
 
  
