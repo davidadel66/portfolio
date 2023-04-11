@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Machine Learning Portfolio
 This repo will contain many different data science projects completed for academic or self-learning purposes. Projects will be categorized by architecture used, such as Regression, Clustering, or Neural Networks.
 
 Libraries used:
