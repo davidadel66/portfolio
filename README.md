@@ -26,8 +26,8 @@ Libraries used:
   
   - ## Other 
     - [Computer Vision](link): this folder contains everything computer vision related. Starting from the very basics.
-      - [Classification using KNN](link):
-      - [Cat vs Non-cat using a Deep Neural Network](link):
+      - [Classification using KNN](https://github.com/davidadel66/portfolio/blob/main/Computer%20Vision/Image_Classification___KNN.ipynb): Created a K Nearest Neighbor         Algorithm from scratch to identify classes of images.
+      - [Cat vs Non-cat using a Deep Neural Network](link): Created a Deep neural network from scratch and used it to classify whether an image is a cat or not a cat.
 
 
  
