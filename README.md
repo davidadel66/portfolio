@@ -25,7 +25,9 @@ Libraries used:
   
   
   - ## Other 
-    - [Computer Vision](link): this folder contains everything computer vision related. Starting from the very basics. 
+    - [Computer Vision](link): this folder contains everything computer vision related. Starting from the very basics.
+      - [Classification using KNN](link):
+      - [Cat vs Non-cat using a Deep Neural Network](link):
 
 
  
