@@ -19,7 +19,7 @@ Libraries used:
     
   - ## Machine Learning from Scratch
     - [KNN](https://github.com/davidadel66/portfolio/blob/main/Classification/KNN_No_ML_Library%20.ipynb): Created a K Nearest Neighbor algorithm from scratch to determine Wine Quality.
-    - [2 Layer Neural Network](link)
+    - [2 Layer Neural Network](https://github.com/davidadel66/portfolio/blob/main/Neural%20Networks/OneHiddenLayer_NeuralNetwork_No_ML_Library.ipynb): Created a simple neural network with sigmoid function as an activation. 
     
   
   
